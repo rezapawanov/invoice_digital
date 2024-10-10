@@ -1,4 +1,4 @@
-# vision_invoice_digital
+# invoice_digital
 
 # Cara Menjalankan Program Python di Windows
 
@@ -58,14 +58,14 @@ Program ini membutuhkan beberapa pustaka tambahan yang harus diinstal. Anda dapa
    - Buat sebuah file bernama `config.json` dengan isi berikut:
      ```json
      {
-       "encryption_key": "VISION4000007301"
+       "encryption_key": "INVOICE4000007301"
      }
      ```
 
 3. **Buat File CSV (data.csv)**:
    - Buat file CSV dengan satu baris data seperti ini:
      ```
-     VISION|52401845|27501000.00|30526110.00|3025110.00|0100072463479302
+     INVOICE|52401845|27501000.00|30526110.00|3025110.00|0100072463479302
      ```
 
 ## Langkah 4: Menjalankan Program
