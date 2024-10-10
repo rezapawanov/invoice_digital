@@ -109,3 +109,9 @@ Jika Anda menghadapi masalah saat menjalankan program, berikut adalah beberapa h
 
 Jika ada masalah lain, pastikan Anda menjalankan perintah di direktori yang benar dan semua file yang diperlukan sudah tersedia.
 
+Dengan adanya program ini memungkinkan anda bisa melakukan explore lebih banyak contoh :
+1. Integrasi automatic dari source lain contoh database, api, excel, dll  untuk proses pengambilan data invoice.
+2. Proses embed QR di Invoice secara automatis setelah proses generate, jadi bisa dilakukan tanpa embeded manual.
+
+Jika ada pertanyaan atau kebutuhan lebih lanjut bisa menghubungi saya di : [rezapawanov@gmail.com](mailto:rezapawanov@gmail.com).
+
