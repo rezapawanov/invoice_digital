@@ -1,4 +1,4 @@
-# tmmin_vision_invoice_digital
+# vision_invoice_digital
 
 # Cara Menjalankan Program Python di Windows
 
@@ -48,7 +48,7 @@ Program ini membutuhkan beberapa pustaka tambahan yang harus diinstal. Anda dapa
 ## Langkah 3: Menyiapkan Program Python
 
 1. **Buat File Program Python**:
-   - Buat sebuah file Python baru bernama `tmmin.py` dan salin kode berikut ke dalam file tersebut:
+   - Buat sebuah file Python baru bernama `qr.py` dan salin kode berikut ke dalam file tersebut:
 
      ```python
      # Program Python yang sudah diberikan sebelumnya
@@ -79,7 +79,7 @@ Program ini membutuhkan beberapa pustaka tambahan yang harus diinstal. Anda dapa
 2. **Jalankan Program**:
    - Setelah berada di direktori yang benar, jalankan program dengan perintah berikut:
      ```bash
-     python tmmin.py
+     python qr.py
      ```
 
 3. **Hasil Program**:
@@ -105,7 +105,7 @@ Program ini membutuhkan beberapa pustaka tambahan yang harus diinstal. Anda dapa
 Jika Anda menghadapi masalah saat menjalankan program, berikut adalah beberapa hal yang bisa diperiksa:
 1. Pastikan semua pustaka sudah diinstal dengan benar menggunakan `pip`.
 2. Periksa apakah Python sudah ditambahkan ke PATH jika muncul pesan bahwa Python tidak dikenali sebagai perintah.
-3. Pastikan semua file (`tmmin.py`, `config.json`, dan `data.csv`) berada di direktori yang sama.
+3. Pastikan semua file (`qr.py`, `config.json`, dan `data.csv`) berada di direktori yang sama.
 
 Jika ada masalah lain, pastikan Anda menjalankan perintah di direktori yang benar dan semua file yang diperlukan sudah tersedia.
 
